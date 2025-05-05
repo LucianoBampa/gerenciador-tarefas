@@ -20,3 +20,11 @@ O objetivo é demonstrar conceitos de MVC, Blade, Eloquent ORM e rotas no Larave
    ```bash
    git clone https://github.com/LucianoBampa/gerenciador-tarefas.git
    cd gerenciador-tarefas
+
+---
+
+## 📊 Apresentação
+
+A apresentação utilizada neste projeto está disponível em:
+
+📂 [`docs/Apresentacao_Webphp_LucianoBampaVieira.pptx`](docs/Apresentacao_Webphp_LucianoBampaVieira.pptx)
